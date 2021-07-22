@@ -1,0 +1,32 @@
+.circle {
+    color: lightseagreen;
+    background-color: rgb(241, 240, 240);
+    margin-top: 70px;
+    margin-left: 70px;
+    width: 120px;
+    height: 30px;
+    border-radius: 30px;
+    border-top-color: lightseagreen;
+    border-bottom-color: lightseagreen;
+    border-left: lightseagreen;
+    border-right-color: lightseagreen;
+}
+
+.plus {
+    color: white;
+    background-color: aquamarine;
+    border-radius: 600%;
+    margin-top: 20px;
+    margin-left: 70px;
+    height: 40px;
+    width: 40px;
+}
+
+.account {
+    color: white;
+    background-color: blue;
+    margin-top: 20px;
+    margin-left: 70px;
+    width: 150px;
+    height: 30px;
+}
